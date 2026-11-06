@@ -8,7 +8,7 @@ Lift-Off follows [Semantic Versioning](https://semver.org/).
 
 Font files carry the version as `Version M.mmp; M.m.p` (e.g. 1.2.3 is "Version 1.023; 1.2.3").
 
-## [1.0.0] - unreleased
+## [1.0.0] - 2026-11-05
 
 First public release.
 
